@@ -10,9 +10,9 @@ if __name__ == "__main__":
     setup(name = 'pystl',
 	      version = '1.0',
 	      author='Harutyun Khachatryan',
-	      author_email='harutyun.khachatryan@monitis.com',
-	      url='http://www.monitis.com/',
-	      license='Monitis Inc.',
+	      author_email='kh_harut@yahoo.com',
+	      url='https://github.com/khharut/pystl',
+	      license='GPL-3',
 	      description = 'Loess smoother for python',
 	      ext_modules = [pstl],
 	      zip_safe=False)
